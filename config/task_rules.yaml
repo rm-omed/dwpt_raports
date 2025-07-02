@@ -1,0 +1,114 @@
+templates:
+  - id: 1001
+    filename: default1.docx
+    title: "GAB Report – Internal Security"
+    schedule:
+      type: daily
+    reminder_time: "08:00"
+
+  - id: 1002
+    filename: default2.docx
+    title: "GAB Report – External Threats"
+    schedule:
+      type: weekly
+      days: [4]  # Thursday
+    reminder_time: "09:00"
+
+  - id: 1003
+    filename: default3.docx
+    title: "GAB Report – Communications Failure"
+    schedule:
+      type: daily
+    reminder_time: "07:30"
+
+  - id: 1004
+    filename: default4.docx
+    title: "Monthly Summary – Beni Abbas"
+    schedule:
+      type: monthly
+      days: [5]  # 5th of each month
+    reminder_time: "10:00"
+
+  - id: 1005
+    filename: default5.docx
+    title: "ATM Breakdown Follow-up"
+    schedule:
+      type: daily
+    reminder_time: "11:00"
+
+  - id: 1006
+    filename: default6.docx
+    title: "Poste Infrastructure Review"
+    schedule:
+      type: weekly
+      days: [3]  # Wednesday
+    reminder_time: "08:45"
+
+  - id: 1007
+    filename: default7.docx
+    title: "Security Camera Check Report"
+    schedule:
+      type: daily
+    reminder_time: "13:00"
+
+  - id: 1008
+    filename: default8.docx
+    title: "GAB Refueling & Maintenance"
+    schedule:
+      type: weekly
+      days: [4]  # Thursday
+    reminder_time: "14:30"
+
+  - id: 1009
+    filename: default9.docx
+    title: "Staff Movement Log"
+    schedule:
+      type: daily
+    reminder_time: "08:10"
+
+  - id: 1010
+    filename: default10.docx
+    title: "Mail Transport Verification"
+    schedule:
+      type: monthly
+      days: [1]  # 1st of each month
+    reminder_time: "15:00"
+
+  - id: 1011
+    filename: default11.docx
+    title: "Night Shift Handover Summary"
+    schedule:
+      type: daily
+    reminder_time: "06:00"
+
+  - id: 1012
+    filename: default12.docx
+    title: "Technical Maintenance Report"
+    schedule:
+      type: weekly
+      days: [5]  # Friday
+    reminder_time: "11:15"
+
+  - id: 1013
+    filename: default13.docx
+    title: "Resource Consumption Report"
+    schedule:
+      type: monthly
+      days: [13]  # 13th of each month
+    reminder_time: "16:00"
+
+  - id: 1014
+    filename: default14.docx
+    title: "Incident Escalation Notes"
+    schedule:
+      type: daily
+    reminder_time: "17:45"
+
+  - id: 1015
+    filename: default15.docx
+    title: "Poste Regional Audit"
+    schedule:
+      type: yearly
+      months: [6, 12]  # June and December
+      days: [6]        # 6th day of June and December
+    reminder_time: "09:45"

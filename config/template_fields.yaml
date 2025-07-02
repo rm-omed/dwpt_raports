@@ -1,0 +1,135 @@
+default1.docx:
+  - name: date
+    type: date
+  - name: number
+    type: text
+  - name: num2
+    type: text
+  - name: gabenpanne
+    type: table
+    columns:
+      - name: nom_du_bureau
+        type: combo
+        options: ["BENI ABBES", "TIMIMOUN", "ADRAR", "KSAR BOUKHARI"]
+      - name: gab_en_panne
+        type: text
+      - name: date_de_lapanne
+        type: date
+      - name: date_de_retablissement
+        type: date
+      - name: obsrv
+        type: text
+
+default2.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+
+default3.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+  - name: projects
+    type: table
+    columns:
+      - name: commune
+        type: text
+      - name: projet
+        type: text
+      - name: montant
+        type: number
+      - name: source
+        type: text
+      - name: dateIP
+        type: date
+      - name: dateLP
+        type: date
+      - name: delai
+        type: text
+      - name: sp
+        type: text
+      - name: sf
+        type: number
+      - name: dr
+        type: text
+      - name: obsrv
+        type: text
+
+
+default4.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default5.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default6.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default7.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default8.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default9.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default10.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default11.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default12.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+  - name: weeks
+    type: multiweek
+
+default13.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default14.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+
+default15.docx:
+  - name: number
+    type: text
+  - name: date
+    type: date
+

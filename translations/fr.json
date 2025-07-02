@@ -1,0 +1,28 @@
+{
+  "title": "📋 Rapport GAB",
+  "open_selected": "📝 Ouvrir le rapport sélectionné",
+  "view_history": "📊 Voir l'historique",
+  "clock": "Heure actuelle",
+  "report_generated": "Rapport généré ✅",
+  "completed": "✅",
+  "pending": "🔔",
+  "no_selection": "Veuillez sélectionner un rapport.",
+  "folder": "📁 Ouvrir le dossier",
+  "print": "🖨️ Imprimer",
+  "cancel": "❌ Annuler",
+  "fill_report": "Remplir le rapport",
+  "use_last_values": "Utiliser les valeurs précédentes",
+  "clear_last_values": "Effacer les valeurs précédentes",
+  "generate_report": "Générer le rapport",
+  "no_id": "Pas d'identifiant",
+  "template_id_not_found": "ID du modèle introuvable.",
+  "cleared": "Effacé",
+  "autofill_cleared_for": "Les données remplies automatiquement ont été supprimées pour le modèle {}",
+  "clear_history": "Effacer l'historique",
+  "confirm_clear_history": "Êtes-vous sûr de vouloir supprimer l'historique des rapports complétés ?",
+  "history_cleared": "Historique supprimé avec succès.",
+  "done": "Terminé",
+  "export_all_due": "Exporter tous les rapports dus aujourd'hui",
+  "preview": "aperçu"
+
+}
